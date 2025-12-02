@@ -18,5 +18,5 @@ def main():
     print(vehicle_info(vehicle_number, owner_name, vehicle_type, year_of_manufacture))
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
